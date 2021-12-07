@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A passionate developer from Guatemala 🇬🇹</h3>
 
-- 👨‍💻 All of my projects are available at [https://pablo-gallina.github.io/Portafolio./](https://pablo-gallina.github.io/Portafolio./)
+- 👨‍💻 All of my projects are available at [portafolio-pablo-gallina.netlify.app/](portafolio-pablo-gallina.netlify.app/)
 
 - 📫 How to reach me **pablogallinag@gmail.com**
 
